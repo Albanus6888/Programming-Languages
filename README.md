@@ -16,5 +16,4 @@ A simple and responsive HTML/CSS project that showcases various programming lang
 
 ---
 
-## 📁 File Structure
 
